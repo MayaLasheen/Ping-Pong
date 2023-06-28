@@ -8,5 +8,21 @@
 <table>
 <tr>
 <td>Left Player Up</td>
+<td>Up Push-Button</td>
+<tr>
+    
+<tr>
+<td>Left Player Down</td>
+<td>Left Push-Button</td>
+<tr>
+    
+<tr>
+<td>Right Player Up</td>
+<td>Right Push-Button</td>
+<tr>
+    
+<tr>
+<td>Right Player Down</td>
+<td>Down Push-Button</td>
 <tr>
 </table>
