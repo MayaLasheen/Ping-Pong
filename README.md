@@ -10,7 +10,7 @@
 <p>
 <table>
 <tr>
-<td>Buttons</td>
+<td colspan = "2">Buttons</td>
 </tr>
 <tr>
 <td>Left Player Up</td>
