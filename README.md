@@ -68,6 +68,6 @@
 <tr>
 <td>5</td>
 <td>SW0, SW1, SW2, SW3 and SW4 on</td>
-<tr>
+</tr>
 </table>
 </p>
