@@ -70,7 +70,7 @@
 <p>
 <table>
     <tr><td colspan = "2" align = "center">Controls</td></tr>
-    <tr><td>Restart</td><td>SW14</td></tr>
+    <tr><td>Restart</td><td>BTNC</td></tr>
     <tr><td>Start/Pause</td><td>SW15</td></tr>
 </table>
 </p>
