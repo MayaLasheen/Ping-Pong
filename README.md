@@ -10,7 +10,7 @@
 <p>
 <table>
 <tr>
-Buttons
+<td>Buttons</td>
 </tr>
 <tr>
 <td>Left Player Up</td>
