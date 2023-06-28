@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td align = "center">Level</td>
-<td align = "center" >Switches</td>
+<td align = "center">Switches</td>
 </tr>
 <tr>
 <td>1</td>
