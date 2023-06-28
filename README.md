@@ -15,33 +15,33 @@
 <tr>
 <td>Left Player Up</td>
 <td>BTNU</td>
-<tr>
+</tr>
     
 <tr>
 <td>Left Player Down</td>
 <td>BTNL</td>
-<tr>
+</tr>
     
 <tr>
 <td>Right Player Up</td>
 <td>BTNR</td>
-<tr>
+</tr>
     
 <tr>
 <td>Right Player Down</td>
 <td>BTND</td>
-<tr>
+</tr>
 </table>
 </p>
 
 <p>
 <table>
 <tr>
-<td colspan = "2" align = "center">Difficulty Level</td>
+<td colspan = "2" align = "center">Difficulty Level Selection</td>
 </tr>
 <tr>
-<td>Level</td>
-<td>Switches</td>
+<td align = "center">Level</td>
+<td align = "center" >Switches</td>
 </tr>
 <tr>
 <td>1</td>
