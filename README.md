@@ -10,26 +10,64 @@
 <p>
 <table>
 <tr>
-<td colspan = "2" align = "center">Buttons</td>
+<td colspan = "2" align = "center">Controls</td>
 </tr>
 <tr>
 <td>Left Player Up</td>
-<td>Up Push-Button</td>
+<td>BTNU</td>
 <tr>
     
 <tr>
 <td>Left Player Down</td>
-<td>Left Push-Button</td>
+<td>BTNL</td>
 <tr>
     
 <tr>
 <td>Right Player Up</td>
-<td>Right Push-Button</td>
+<td>BTNR</td>
 <tr>
     
 <tr>
 <td>Right Player Down</td>
-<td>Down Push-Button</td>
+<td>BTND</td>
+<tr>
+</table>
+</p>
+
+<p>
+<table>
+<tr>
+<td colspan = "2" align = "center">Difficulty Level</td>
+</tr>
+<tr>
+<td>Level</td>
+<td>Switches</td>
+<tr>
+<tr>
+<td>1</td>
+<td>SW0 on</td>
+<tr>
+    
+<tr>
+<td>2</td>
+<td>SW0 and SW1 on</td>
+<tr>
+    
+<tr>
+<td>3</td>
+<td>SW0, SW1 and SW2 on</td>
+<tr>
+    
+<tr>
+<td>4</td>
+<td>SW0, SW1, SW2 and SW3 on</td>
+<tr>
+</table>
+</p>
+
+<tr>
+<td>5</td>
+<td>SW0, SW1, SW2, SW3 and SW4 on</td>
 <tr>
 </table>
 </p>
