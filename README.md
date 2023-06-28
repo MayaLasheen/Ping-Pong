@@ -8,8 +8,10 @@
 </p>
 
 <p>
-## How to Play?
 <table>
+<tr>
+Buttons
+</tr>
 <tr>
 <td>Left Player Up</td>
 <td>Up Push-Button</td>
