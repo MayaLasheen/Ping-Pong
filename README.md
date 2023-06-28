@@ -10,7 +10,7 @@
 <p>
 <table>
 <tr>
-<td colspan = "2" align = "center">Controls</td>
+<td colspan = "2" align = "center">Paddle Movement</td>
 </tr>
 <tr>
 <td>Left Player Up</td>
@@ -42,28 +42,26 @@
 <tr>
 <td>Level</td>
 <td>Switches</td>
-<tr>
+</tr>
 <tr>
 <td>1</td>
 <td>SW0 on</td>
-<tr>
+</tr>
     
 <tr>
 <td>2</td>
 <td>SW0 and SW1 on</td>
-<tr>
+</tr>
     
 <tr>
 <td>3</td>
 <td>SW0, SW1 and SW2 on</td>
-<tr>
+</tr>
     
 <tr>
 <td>4</td>
 <td>SW0, SW1, SW2 and SW3 on</td>
-<tr>
-</table>
-</p>
+</tr>
 
 <tr>
 <td>5</td>
