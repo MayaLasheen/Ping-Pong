@@ -13,6 +13,10 @@
         <td colspan = "2" align = "center">Paddle Movement</td>
     </tr>
     <tr>
+        <td align = "center">Action</td>
+        <td align = "center">Push-Button</td>
+    </tr> 
+    <tr>
         <td>Left Player Up</td>
         <td>BTNU</td>
     </tr>    
